@@ -1,0 +1,135 @@
+CalTraAi Privacy Policy
+
+Last Updated: December 10, 2024
+
+CalTraAi ("we," "our," or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application CalTraAi (the "App"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the App.
+
+1. INFORMATION WE COLLECT
+
+We collect information that you provide directly to us and information that is automatically collected when you use our App.
+
+1.1 Personal Information You Provide
+- Account Information: When you create an account, we collect your email address, name, age, date of birth, height, weight, gender, and health/fitness goals.
+- Profile Data: Your dietary preferences, activity level, target weight, and other personalization settings.
+- Health Data: Weight tracking history, water intake records, fasting periods, and nutritional goals you set within the App.
+
+1.2 Automatically Collected Information
+- Device Information: Device type, operating system (iOS/Android), device identifiers, and language preferences.
+- Usage Data: Features you use, time spent in the App, and interaction patterns.
+- Food Images: Photos you take or select for nutritional analysis. These images are temporarily processed and are NOT permanently stored on our servers.
+
+1.3 Information from Third-Party Services
+- Apple Sign-In: If you sign in with Apple, we receive your Apple ID, email address (or private relay email), and name (if you choose to share it).
+- Subscription Data: Purchase history, subscription status, and transaction information from Apple App Store or Google Play Store, processed through RevenueCat.
+
+2. HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+- Provide, maintain, and improve the App's functionality
+- Create and manage your account
+- Process your food images through AI to provide nutritional analysis
+- Personalize your experience based on your goals and preferences
+- Manage your subscription and process payments
+- Send you important updates about your account or subscription
+- Respond to your inquiries and provide customer support
+- Detect, prevent, and address technical issues or fraudulent activity
+- Comply with legal obligations
+
+3. THIRD-PARTY SERVICES
+
+We use the following third-party services that may collect and process your data:
+
+3.1 Firebase (Authentication & Cloud Firestore)
+- Purpose: User authentication and cloud data storage
+- Data Shared: Email, user ID, profile information, subscription status
+- Privacy Policy: https://firebase.google.com/support/privacy
+
+3.2 RevenueCat
+- Purpose: Subscription and in-app purchase management
+- Data Shared: User ID, purchase history, subscription status
+- Privacy Policy: https://www.revenuecat.com/privacy
+
+3.3 Google Gemini API
+- Purpose: AI-powered food image analysis and nutritional information extraction
+- Data Shared: Food images you submit for analysis (temporarily processed, not stored)
+- Privacy Policy: https://policies.google.com/privacy
+
+3.4 Apple Sign-In
+- Purpose: Authentication via Apple ID
+- Data Shared: Apple ID, email address, name (optional)
+- Privacy Policy: https://www.apple.com/legal/privacy/
+
+These third-party services operate under their own privacy policies. We encourage you to review their policies to understand how they handle your data.
+
+4. DATA STORAGE AND SECURITY
+
+4.1 Where Your Data is Stored
+- Cloud Storage: Account and profile data are stored in Firebase Cloud Firestore (servers may be located in the United States or other regions).
+- Local Storage: Nutrition analyses, calendar entries, water intake, and fasting history are stored locally on your device using AsyncStorage.
+- Image Processing: Food images are sent to Google Gemini API for analysis and are deleted immediately after processing. We do NOT store your food images.
+
+4.2 Security Measures
+We implement industry-standard security measures to protect your data, including:
+- Encryption of data in transit using SSL/TLS
+- Secure authentication protocols
+- Regular security assessments
+- Access controls and authentication requirements
+
+However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee absolute security.
+
+5. DATA RETENTION AND DELETION
+
+5.1 How Long We Keep Your Data
+- Account Data: Retained as long as your account is active
+- Local Data: Stored on your device until you delete it or uninstall the App
+- Subscription Data: Retained according to legal requirements and RevenueCat's policies
+- Food Images: Deleted immediately after analysis is complete
+
+5.2 How to Delete Your Data
+- Local Data: Use the "Reset Data" or "Clear History" options within the App settings
+- Subscription/payment records may be retained by RevenueCat and app stores according to their policies and legal requirements
+
+6. YOUR PRIVACY RIGHTS
+
+Depending on your location, you may have the following rights:
+- Access: Request a copy of the personal data we hold about you
+- Correction: Request correction of inaccurate or incomplete data
+- Deletion: Request deletion of your personal data
+- Portability: Request transfer of your data to another service
+- Objection: Object to processing of your personal data
+- Restriction: Request restriction of processing your personal data
+- Withdraw Consent: Withdraw consent for data processing at any time
+
+To exercise these rights, please contact us at desiesstd@gmail.com. We will respond to your request within 30 days.
+
+7. CHILDREN'S PRIVACY
+
+CalTraAi is not intended for use by children under the age of 13 (or the applicable age of consent in your jurisdiction). We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at desiesstd@gmail.com, and we will delete such information from our systems.
+
+8. INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to and processed in countries other than your country of residence. These countries may have data protection laws that are different from the laws of your country. By using the App, you consent to the transfer of your information to the United States and other countries where our service providers operate.
+
+9. DO NOT TRACK SIGNALS
+
+Some web browsers have a "Do Not Track" feature. Because there is not yet a common understanding of how to interpret Do Not Track signals, our App does not currently respond to Do Not Track signals.
+
+10. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy in the App
+- Updating the "Last Updated" date at the top of this policy
+- Sending you a notification (for material changes)
+
+Your continued use of the App after changes are posted constitutes your acceptance of the updated Privacy Policy.
+
+11. CONTACT US
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+Email: desiesstd@gmail.com
+Response Time: We aim to respond to all inquiries within 48 hours
+
+For data protection inquiries or to exercise your privacy rights, please include "Privacy Request" in your email subject line.
+
+

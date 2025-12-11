@@ -1,0 +1,231 @@
+CalTraAi Terms of Use
+
+Last Updated: December 10, 2024
+
+PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE APP.
+
+1. ACCEPTANCE OF TERMS
+
+Welcome to CalTraAi! These Terms of Use ("Terms") govern your access to and use of the CalTraAi mobile application ("App"), which provides nutritional analysis, meal tracking, water tracking, fasting tracking, and weight tracking features.
+
+By downloading, accessing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, please do not use the App.
+
+2. MEDICAL DISCLAIMER AND HEALTH INFORMATION
+
+IMPORTANT: CalTraAi is NOT a medical device and is NOT intended to diagnose, treat, cure, or prevent any disease or medical condition.
+
+2.1 Not Medical Advice
+- The nutritional information, calorie estimates, and health-related features provided by CalTraAi are for informational and educational purposes only.
+- The App does NOT provide medical advice, diagnosis, or treatment.
+- The nutritional analysis is based on AI technology and may contain errors or inaccuracies.
+- Always consult with a qualified healthcare professional before making any decisions regarding your diet, exercise, weight loss, or health.
+
+2.2 Use at Your Own Risk
+- You use the App and its features at your own risk.
+- We are not responsible for any health issues, injuries, or adverse effects that may result from using the App or following its recommendations.
+- If you have any medical conditions, allergies, dietary restrictions, or are pregnant or nursing, consult your doctor before using this App.
+
+2.3 Emergency Situations
+- The App is not designed for emergency situations.
+- If you are experiencing a medical emergency, call emergency services immediately.
+
+3. ELIGIBILITY AND AGE REQUIREMENTS
+
+You must be at least 13 years old to use CalTraAi. If you are under 18, you must have your parent or legal guardian's permission to use the App. By using the App, you represent and warrant that you meet these age requirements.
+
+4. ACCOUNT REGISTRATION AND SECURITY
+
+4.1 Account Creation
+- To access certain features, you must create an account by providing accurate and complete information.
+- You may register using your email address or through Apple Sign-In.
+
+4.2 Account Security
+- You are responsible for maintaining the confidentiality of your account credentials.
+- You are responsible for all activities that occur under your account.
+- Notify us immediately if you suspect any unauthorized use of your account.
+
+4.3 Account Deletion
+- You may delete your account at any time through the App settings or by contacting us at desiesstd@gmail.com.
+- Upon account deletion, your personal data will be removed from our servers within 30 days, subject to legal retention requirements.
+- Deleting your account does not automatically cancel your subscription. You must cancel your subscription separately through your App Store or Google Play account.
+
+5. SUBSCRIPTION TERMS
+
+5.1 Subscription Plans
+CalTraAi offers the following subscription options for premium features:
+- Weekly Plan: $1.99 USD per week
+- Monthly Plan: $5.99 USD per month
+- Quarterly Plan (3 months): $14.99 USD per quarter
+
+Prices may vary by region and are subject to change. Applicable taxes may apply.
+
+5.2 Free Features
+The following features are available free of charge without a subscription:
+- Water tracking
+- Fasting tracking
+- Weight tracking
+- Basic meal logging (limited)
+
+5.3 Premium Features
+Subscription provides unlimited access to:
+- Unlimited AI-powered food image analysis
+- Detailed nutritional breakdowns
+- Advanced meal planning and tracking
+- Personalized recommendations
+- Ad-free experience
+- Priority customer support
+
+5.4 Automatic Renewal
+- Subscriptions automatically renew at the end of each billing period unless canceled at least 24 hours before the renewal date.
+- Your payment method will be charged within 24 hours prior to the start of each new billing period.
+- You can manage or cancel your subscription at any time through your App Store (iOS) or Google Play (Android) account settings.
+
+5.5 Free Trials
+- We may offer free trial periods for new subscribers.
+- If you do not cancel before the trial period ends, you will be automatically charged for the subscription.
+- You can cancel during the trial period without being charged.
+
+5.6 Cancellation
+- You may cancel your subscription at any time through your App Store or Google Play account settings.
+- Cancellation takes effect at the end of the current billing period.
+- You will continue to have access to premium features until the end of the paid period.
+- No partial refunds are provided for unused portions of a subscription period.
+
+5.7 Refunds
+- All purchases are processed through the Apple App Store or Google Play Store.
+- Refund requests must be submitted directly to Apple or Google according to their respective refund policies.
+- We do not have the ability to issue refunds directly.
+- Apple App Store refund policy: https://support.apple.com/en-us/HT204084
+- Google Play refund policy: https://support.google.com/googleplay/answer/2479637
+
+6. USE OF THE APPLICATION
+
+6.1 Permitted Use
+- CalTraAi is intended for personal, non-commercial use only.
+- You may use the App to track your nutrition, meals, water intake, fasting periods, and weight.
+
+6.2 Prohibited Activities
+You agree NOT to:
+- Use the App for any unlawful, harmful, fraudulent, or prohibited purpose
+- Attempt to gain unauthorized access to the App or its systems
+- Reverse engineer, decompile, or disassemble the App
+- Use automated systems (bots, scrapers) to access the App
+- Upload malicious code, viruses, or harmful content
+- Violate any applicable laws or regulations
+- Impersonate another person or entity
+- Share your account credentials with others
+- Use the App in any way that could damage, disable, or impair our services
+
+7. INTELLECTUAL PROPERTY RIGHTS
+
+7.1 Our Content
+- All content in the App, including text, graphics, logos, images, software, and design, is owned by or licensed to CalTraAi.
+- This content is protected by copyright, trademark, and other intellectual property laws.
+- You may not copy, reproduce, distribute, modify, create derivative works, publicly display, or exploit any content without our prior written consent.
+
+7.2 Your Content
+- You retain all rights to the content you create or submit through the App, such as meal photos and tracking data.
+- By submitting content, you grant us a limited license to process and analyze your content solely to provide the App's services.
+- Food images you submit are processed temporarily for nutritional analysis and are NOT permanently stored on our servers.
+
+8. DATA AND PRIVACY
+
+Your use of CalTraAi is governed by our Privacy Policy, which is incorporated into these Terms by reference. Please review our Privacy Policy to understand how we collect, use, and protect your information.
+
+Key points:
+- We collect account information, health data, and usage data as described in our Privacy Policy.
+- Food images are processed by AI and deleted immediately after analysis.
+- Most data is stored locally on your device.
+- You can delete your data at any time.
+
+9. THIRD-PARTY SERVICES
+
+The App integrates with third-party services including:
+- Firebase (authentication and data storage)
+- RevenueCat (subscription management)
+- Google Gemini API (AI-powered nutritional analysis)
+- Apple Sign-In (authentication)
+
+These services are subject to their own terms and privacy policies. We are not responsible for the practices or content of third-party services.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+
+- THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+- WE DISCLAIM ALL WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT.
+- WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
+- WE ARE NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM YOUR USE OF THE APP.
+- THIS INCLUDES DAMAGES FOR LOSS OF PROFITS, DATA, HEALTH ISSUES, OR OTHER INTANGIBLE LOSSES.
+- OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APP IN THE 12 MONTHS PRECEDING THE CLAIM.
+
+Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability, so the above limitations may not apply to you.
+
+11. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless CalTraAi and its affiliates, officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of another party
+- Your content or data submitted through the App
+
+12. CHANGES TO THE APP AND TERMS
+
+12.1 Changes to the App
+- We reserve the right to modify, suspend, or discontinue any feature of the App at any time without notice.
+- We may also impose limits on certain features or restrict access to parts of the App.
+
+12.2 Changes to Terms
+- We may update these Terms from time to time.
+- Changes will be posted in the App with an updated "Last Updated" date.
+- Material changes will be communicated through the App or via email.
+- Your continued use of the App after changes are posted constitutes acceptance of the updated Terms.
+
+13. TERMINATION
+
+13.1 By You
+- You may stop using the App and delete your account at any time.
+
+13.2 By Us
+- We reserve the right to suspend or terminate your access to the App at any time, with or without notice, for:
+  - Violation of these Terms
+  - Fraudulent or illegal activity
+  - Abuse of the App or its services
+  - Any other reason at our sole discretion
+
+13.3 Effect of Termination
+- Upon termination, your right to use the App ceases immediately.
+- Termination does not automatically cancel your subscription; you must cancel separately.
+- Sections of these Terms that by their nature should survive termination will survive, including intellectual property rights, disclaimers, and limitations of liability.
+
+14. GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 Governing Law
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which our company is established, without regard to conflict of law principles.
+
+14.2 Dispute Resolution
+- Any disputes arising from these Terms or your use of the App shall be resolved through binding arbitration, except where prohibited by law.
+- You agree to waive your right to a jury trial or to participate in a class action lawsuit.
+
+15. MISCELLANEOUS
+
+15.1 Entire Agreement
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and CalTraAi regarding the App.
+
+15.2 Severability
+If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full effect.
+
+15.3 Waiver
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.
+
+15.4 Assignment
+You may not assign or transfer these Terms without our prior written consent. We may assign our rights and obligations without restriction.
+
+15.5 Contact Information
+For questions about these Terms, please contact us at:
+Email: desiesstd@gmail.com
+
+16. ACKNOWLEDGMENT
+
+BY USING CALTRAAI, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF USE, UNDERSTAND THEM, AND AGREE TO BE BOUND BY THEM. YOU ALSO ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND OUR PRIVACY POLICY.
+
